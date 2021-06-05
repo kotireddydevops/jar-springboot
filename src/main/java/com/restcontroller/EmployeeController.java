@@ -8,7 +8,6 @@ public class EmployeeController {
 
 	@RequestMapping("hello")
 	public String doSomething(){
-		              return "Hello World!!!
-				      how are you kotireddy ph 9553144617";
+		              return "Hello World!!! how are you kotireddy? ph 9553144617";
 	}
 }
